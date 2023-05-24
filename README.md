@@ -1,21 +1,42 @@
 # School-Projects
-Some of my school projects, many did not have git repositories, but the following did:
+Some of my school projects, many did not have git repositories, but here are some that did:
+
+---
 
 ## Solo:
 
-Optimize school schedules with a Genetic Algorithm
-https://github.com/hmk30/Schedule-GA
+Schedule GA
+- Optimize school schedules with a Genetic Algorithm
+- https://github.com/hmk30/Schedule-GA
 
-WebGL 3d renderer demonstration with animations, picking, and more
-https://github.com/hmk30/CG-Final
+Pawn Render
+- WebGL 3d renderer demonstration with animations, picking, and more
+- https://github.com/hmk30/CG-Final
+
+Doodle Detector
+- Webapp where users can draw numbers or simple doodles, and a neural network (created with TensorFlow + Keras) predicts what it is.
+- https://github.com/hunterkalinoski/doodle-detector
+
+A* Path Finder
+- Java console app that demonstrates/visualizes the A* algorithm
+- https://github.com/hunterkalinoski/AStarPathFinder
+
+Poker
+- Mobile app to play Poker with another person in real-time.
+- https://github.com/hunterkalinoski/Poker
+
+---
 
 ## Collaborative:
 
-Event loop framework written in C which demonstrates the Collatz Conjecture
-https://github.com/IaDrake20/Computer-Operating-Systems-Final-Project
+ELF (Event Loop Framework)
+- Event loop framework written in C which demonstrates the Collatz Conjecture
+- https://github.com/IaDrake20/Computer-Operating-Systems-Final-Project
 
-Web text-based RPG with a MongoDB database, user authentication + authorization, socket-based real-time communication, an Express.js server and a vanilla html/css/js frontend
-https://github.com/IaDrake20/Web-Programming-Final
+Web text-based RPG
+- Web text-based Role Playing Game with a MongoDB database, user authentication + authorization, socket-based real-time communication, an Express.js server and a vanilla html/css/js frontend
+- https://github.com/IaDrake20/Web-Programming-Final
 
-Rock paper scissors game that requires users to show pokémon cards (or images of) to their camera.  Uses PyGame and a feature detector created with OpenCV.
-https://github.com/xOcarin/PokemonRPSGame
+PokéRPS
+- Rock paper scissors game that requires users to show pokémon cards (or images of) to their camera.  Uses PyGame and a feature detector created with OpenCV.
+- https://github.com/xOcarin/PokemonRPSGame
